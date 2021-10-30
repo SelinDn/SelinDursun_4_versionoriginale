@@ -22,3 +22,9 @@ Objectif du projet : Optimiser un site web existant, ici le site d'une agence de
 ## Informations complémentaires 
 [Lien Github du site optimisé](https://github.com/SelinDn/SelinDursun_4_06102021.git)
 [Lien Github Pages du site optimisé](https://selindn.github.io/SelinDursun_4_06102021/)
+Les commits "Modifs soutenance" ont été réalisés afin d'effectuer les captures 
+d'écran avant et après mes 10 recommandations que je devais rajouter à mon rapport d'optimisation après ma soutenance. 
+
+J'ai effectué les mêmes 10 recommandations que sur mon site optimisé pour éviter de tout "recasser" sur la version finale. 
+
+Le site original, donc celui-ci a été remis à sa version donnée avant de commencer le projet à l'aide du dernier commit "Remise à zéro". 
